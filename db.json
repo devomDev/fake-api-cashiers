@@ -1,208 +1,5 @@
 {
-  "cashiers": [
-    {
-      "id": 19,
-      "codigo": "N10308",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Cerrado"
-    },
-    {
-      "id": 20,
-      "codigo": "N10309",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 21,
-      "codigo": "N29391",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 22,
-      "codigo": "N19202",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 23,
-      "codigo": "N00199",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 24,
-      "codigo": "N10308",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Cerrado"
-    },
-    {
-      "id": 25,
-      "codigo": "N10309",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 26,
-      "codigo": "N29391",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 27,
-      "codigo": "N19202",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 28,
-      "codigo": "N00199",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 29,
-      "codigo": "N10308",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Cerrado"
-    },
-    {
-      "id": 30,
-      "codigo": "N10309",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 31,
-      "codigo": "N29391",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 32,
-      "codigo": "N19202",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 33,
-      "codigo": "N00199",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 34,
-      "codigo": "N10308",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Cerrado"
-    },
-    {
-      "id": 35,
-      "codigo": "N10309",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 36,
-      "codigo": "N29391",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "En Proceso"
-    },
-    {
-      "id": 37,
-      "codigo": "N19202",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    },
-    {
-      "id": 38,
-      "codigo": "N00199",
-      "domicilio": "Juárez Sur Carr Nacional Sur 61, Nacozari, 43803 Tizayuca, Hgo.",
-      "nombreGeolocalizacion": "Banorte Sucursal Tizayuca",
-      "fecha": "2022-03-10",
-      "descripcionCategoria": "Sin energía eléctrica",
-      "descripcionIncidencia": "Cajero mal estado",
-      "estatus": "Asignado"
-    }
-  ],
   "sucursal": {
-    "responseCode": 200,
     "direccion": "Ave. Revolución #3000 Sur, Esq. Covarrubias",
     "sucursales": [
       {
@@ -225,34 +22,44 @@
       }
     ]
   },
-  "incidentes": {
+
+  "guardar": {
     "responseCode": 200,
     "descripcion": "Operacion exitosa",
-    "resultado": [
-      {
-        "fecha": "2025-07-16T12:30:29",
-        "comentarios": "Remedy: TERMINADO - Se valida atm dotado, en línea y servicio ultima disposición 12:30"
-      },
-      {
-        "fecha": "2025-07-16T12:30:29",
-        "comentarios": "Cambio de estatus: CERRADO"
-      },
-      {
-        "fecha": "2025-07-16T12:30:01",
-        "comentarios": "Remedy: Servicios bancarios informa de dotara atm el dia 16-07-2025 a las 12:30"
-      },
-      {
-        "fecha": "2025-07-16T12:29:24",
-        "comentarios": "Remedy: EN ATENCION - Se canaliza evento con servicios bancarios para dotacion"
-      },
-      {
-        "fecha": "2025-07-16T12:29:24",
-        "comentarios": "Cambio de estatus: EN PROCESO"
-      },
-      {
-        "fecha": "2025-07-16T11:44:12",
-        "comentarios": "Ticket creado desde la app móvil."
-      }
-    ]
-  }
+    "resultado": []
+  },
+
+  "seguimientos": [
+    {
+      "id": "TICKET123",
+      "responseCode": 200,
+      "descripcion": "Operacion exitosa",
+      "resultado": [
+        {
+          "fecha": "2025-07-16T12:30:29",
+          "comentarios": "Remedy: TERMINADO - Se valida atm dotado, en línea y servicio ultima disposición 12:30"
+        },
+        {
+          "fecha": "2025-07-16T12:30:29",
+          "comentarios": "Cambio de estatus: CERRADO"
+        },
+        {
+          "fecha": "2025-07-16T12:30:01",
+          "comentarios": "Remedy: Servicios bancarios informa de dotara atm el dia 16-07-2025 a las 12:30"
+        },
+        {
+          "fecha": "2025-07-16T12:29:24",
+          "comentarios": "Remedy: EN ATENCION - Se canaliza evento con servicios bancarios para dotacion"
+        },
+        {
+          "fecha": "2025-07-16T12:29:24",
+          "comentarios": "Cambio de estatus: EN PROCESO"
+        },
+        {
+          "fecha": "2025-07-16T11:44:12",
+          "comentarios": "Ticket creado desde la app móvil."
+        }
+      ]
+    }
+  ]
 }
